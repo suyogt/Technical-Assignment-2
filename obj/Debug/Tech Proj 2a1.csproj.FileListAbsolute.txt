@@ -1,0 +1,6 @@
+C:\Users\Suyog Thengale\source\repos\Tech Proj 2a1\obj\Debug\Tech Proj 2a1.csproj.CoreCompileInputs.cache
+C:\Users\Suyog Thengale\source\repos\Tech Proj 2a1\bin\Debug\Tech Proj 2a1.exe.config
+C:\Users\Suyog Thengale\source\repos\Tech Proj 2a1\bin\Debug\Tech Proj 2a1.exe
+C:\Users\Suyog Thengale\source\repos\Tech Proj 2a1\bin\Debug\Tech Proj 2a1.pdb
+C:\Users\Suyog Thengale\source\repos\Tech Proj 2a1\obj\Debug\Tech Proj 2a1.exe
+C:\Users\Suyog Thengale\source\repos\Tech Proj 2a1\obj\Debug\Tech Proj 2a1.pdb
